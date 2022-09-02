@@ -1,0 +1,24 @@
+react is about all its components.
+react is a javascript library for building  user interface.
+react makes building complex interactive and reactive interface simpler.
+
+react components are: 
+   1) re usability.
+   2) Seperation of concern
+   3)Dont repeat yourself.
+   4)Dont do two many thing in one and the same place.
+   
+React allow you to create re-usable and reactive components consisting of the home and javascript.
+
+
+To create react app :
+need to check the version of node ,npm ,npx:
+ by using commands:
+  node -v // shows node version
+  npm -v // show npm version
+  npx -v // shows npx version
+  
+  npm create-react-app Akshith
+  cd Akshith
+  npm start.
+  
