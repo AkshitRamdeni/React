@@ -22,3 +22,14 @@ need to check the version of node ,npm ,npx:
   cd Akshith
   npm start.
   
+  
+  
+  jsx stands for javascript xml code
+  
+  
+  
+  First we are going to Create our first component
+  
+  component =>expenseitem.js 
+            =>expenseitem.css 
+  
